@@ -1,0 +1,5 @@
+관측빈도와 기대빈도 차이가 크다 -> chi square 값이 크다 -> 독립이 아니다
+
+precision 실제값Y/관측값Y+N
+recall 실제값Y/실제값Y+N
+
